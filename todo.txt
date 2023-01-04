@@ -5,4 +5,5 @@ MINHA LISTA DE TAREFAS
 3. Estudar pelos livros.
 4. Chegar nas aulas a tempo.
 5. Visitar minha tia.
-6. Me candidatar a trabalhos remotos. 
+6. Me candidatar a trabalhos remotos.
+7. Praticar programação.
